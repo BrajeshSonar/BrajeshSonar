@@ -16,7 +16,7 @@ Computer Science & Engineering graduate passionate about **Artificial Intelligen
 
 ## 📫 Contact
 
-* **LinkedIn:** https://linkedin.com/in/**brajesh-sonar**
+* **LinkedIn:** https://linkedin.com/in/brajesh-sonar
 * **Email:** **[brajeshsonar2001@gmail.com](mailto:brajeshsonar2001@gmail.com)**
 
 Feel free to reach out for collaborations, research, or AI/ML opportunities!
