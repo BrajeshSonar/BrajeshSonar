@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @BrajeshSonar
-- 👀 I’m interested in... Coding, making websites, Cricket, Volleyball, badminton
-- 🌱 I’m currently learning ...Data Structures and Algorithm, Web development.
-- 💞️ I’m looking to collaborate on ...Projects which will give me a opportunity to explore or learn new things
-- 📫 How to reach me ...You can reach me through my email id- brajeshsonar2001@gmal.com
+# Hi, I'm Brajesh Sonar 👋
 
-<!---
-BrajeshSonar/BrajeshSonar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science & Engineering graduate passionate about **Artificial Intelligence, Machine Learning, Deep Learning, LLMs, RAG, MLOps,** and **Computer Vision**. I enjoy building intelligent, scalable solutions and continuously exploring emerging AI technologies.
+
+## 💻 Tech Stack
+
+**Languages:** Python, C++, JavaScript, C
+**AI/ML:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, NLP, Computer Vision
+**Tools:** Docker, Kubernetes, Git, AWS, GCP, MySQL, PostgreSQL
+
+## 🚀 Featured Projects
+
+* **FusionHashNet** – Deep image authentication using perceptual hashing and multi-feature fusion.
+* **ResNet50 MLOps Pipeline** – End-to-end image classification with Docker deployment.
+* **Transformer Q&A System** – LLM-powered e-commerce question answering.
+
+## 📫 Contact
+
+* **LinkedIn:** https://linkedin.com/in/**brajesh-sonar**
+* **Email:** **[brajeshsonar2001@gmail.com](mailto:brajeshsonar2001@gmail.com)**
+
+Feel free to reach out for collaborations, research, or AI/ML opportunities!
